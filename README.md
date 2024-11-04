@@ -20,3 +20,6 @@ function Get-PublicIP {
 
 and after we done this we can use a much for simple command "Get-PublicIP"
 and it will show us our ip adress.
+
+
+and i solved this with help from Chatgbt.
